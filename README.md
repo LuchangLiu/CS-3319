@@ -2,7 +2,7 @@
 
 **Course Name:** CS3319--Database I
 
-_These folders and files are for my CS3319 final assignment wich I took in 2022 winter term._
+_These folders and files are for my CS3319 final assignment wich I took in 2021 winter term._
 
 Using the povided database that I created before to create and design a website that allows someone to update the bus trip, booking, passenger, passport, and bus tables. 
 
