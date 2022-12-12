@@ -1,0 +1,47 @@
+body{
+	backround-color:powderblue;
+	/*text-align:center;*/
+}
+h1{
+	color:blueviolet;
+	font-family: Cambria;
+}
+h2{
+	color:coral;
+	font-family: Helvetica;
+}
+#bigdiv{
+	width:100%;
+	align:center;
+
+}
+#mydiv1{
+	float: left;
+	width: 800px;
+	height: 1000px;
+	background-color: lightblue;
+}
+#mydiv11{
+	margin-left: 850px; /* greater than or equal to the width of left margin */
+	height: 3000x;
+	background-color: lightgreen;
+
+
+	/*background: url(../images/background.png) center center;*/
+
+}
+#mydiv13{
+	margin-left: 850px; /* greater than or equal to the width of left margin */
+	height: 3000px;
+	background-color: lightgreen;
+
+
+	/*background: url(../images/background.png) center center;*/
+
+}
+
+
+
+#mydiv2{margin:0 auto;width:800px;}
+
+
